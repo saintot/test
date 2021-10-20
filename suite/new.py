@@ -2,7 +2,7 @@ import time
 from machine import Pin
 led = Pin(2, Pin.OUT)
 
-for i in range (20):
+for i in range (5):
 	
 	
 		
