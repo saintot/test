@@ -6,4 +6,4 @@ for i in range (10):
      led.off()
      time.sleep(1)
      led.on()
-     time.sleep(1)
+     time.sleep(1)     
